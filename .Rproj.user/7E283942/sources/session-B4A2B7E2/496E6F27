@@ -3,7 +3,7 @@
     "path": "C:/Users/grego/Repositorios/Treino-FiapOn/Comandos Basicos.R",
     "project_path": "Comandos Basicos.R",
     "type": "r_source",
-    "hash": "2083584115",
+    "hash": "1578498367",
     "contents": "",
     "dirty": false,
     "created": 1666802739344.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "38,0",
-        "scrollLine": "20"
+        "cursorPosition": "56,0",
+        "scrollLine": "39"
     },
     "folds": "",
-    "lastKnownWriteTime": 1666806202,
+    "lastKnownWriteTime": 1666807379,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1666806202896,
+    "last_content_update": 1666807379517,
     "read_only": false,
     "read_only_alternatives": []
 }
